@@ -24,6 +24,15 @@ import UserLogin from "./scenes/UserLogin";
 import React from "react";
 import Navbar from "./scenes/navbar";
 
+//Update: I am working with azure and will upload it to the web later.
+
+
+
+
+
+
+
+
 // const pca = new PublicClientApplication({
 //   auth: {
 //     clientId: import.meta.env.VITE_APP_CLIENT_ID || "",
