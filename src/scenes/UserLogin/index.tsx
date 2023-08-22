@@ -56,6 +56,7 @@ useEffect(() => {
 //Login button function
 const LoginButtonFunction = async (id: number) => {
   console.log("Hi!");
+  console.log(SelectedUserLoginsId);
   if(SelectedUserLoginsId) {
         try {
           if(userPassword === SelectedUserLoginsId.userLoginsPassword){
